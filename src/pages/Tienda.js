@@ -8,7 +8,7 @@ export default function Comunidad() {
       <hr className="hr" />
 
       <div className="row">
-        <div className="col-6 text-center ">
+        <div className="col-6 px-5">
         <Maps/>
         </div>
 
